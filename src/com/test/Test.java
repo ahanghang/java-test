@@ -15,4 +15,8 @@ public class Test {
         System.out.println(".............test java-test 1");
         System.out.println(".............test java-test 2");
     }
+
+    protected void method() {
+        System.out.println(".......Test java-git-test 1111");
+    }
 }
