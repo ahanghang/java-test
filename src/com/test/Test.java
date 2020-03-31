@@ -21,5 +21,6 @@ public class Test {
         System.out.println(".......Test java-git-test 2222");
 
         System.out.println(".......Test java-test 1");
+        System.out.println(".......Test java-test 2");
     }
 }
